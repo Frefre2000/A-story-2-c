@@ -1,3 +1,4 @@
+import time
 print ("Hello! I have a story for you!")
 time.sleep(1)
 print ("*You say* Oh! I am listining!")
@@ -17,7 +18,7 @@ time.sleep(1/2)
 print ("-_- Do you really have to innterupt me?")
 time.sleep(2)
 print ("*You say* Oops... sorry..")
-tome.sleep(1)
+time.sleep(1)
 print ("Just let me continue.")
 time.sleep(1/3)
 print ("*You say* Okie doki!")
